@@ -1,0 +1,30 @@
+
+.feu{
+    background-color: black;
+    width: fit-content;
+    padding: 1%;
+}
+.rouge{
+    margin: 0 0 5% 0;
+    width: 100px;
+    height: 100px;
+    border-radius:50px ;
+    background-color: red;
+}
+.orange {
+    margin: 5% 0 5% 0;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: yellow;
+}
+.vert {
+    margin: 5% 0 5% 0;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: green;
+}
+.tab1{
+    margin-bottom: 20px;
+}
